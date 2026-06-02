@@ -26,6 +26,18 @@
 
 -Predictive Analytics
 
+# Analytical Skills
+
+Data Cleaning
+EDA
+Predictive Modeling
+
+# Business Skills
+
+Customer Analytics
+Retention Strategy
+KPI Analysis
+
 # Dataset Description
 
 Dataset: Churn_Modelling.csv
