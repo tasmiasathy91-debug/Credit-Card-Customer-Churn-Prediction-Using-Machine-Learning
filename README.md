@@ -53,13 +53,17 @@ Dataset: Churn_Modelling.csv
 # Descriptive Analytics
 
 Analyze customer demographics
+
 Identify churn patterns
+
 Understand customer behavior
+
 Predictive Analytics
 
 # Build ML models to predict:
 
 Will the customer churn?
+
 Churn probability score
 
 # Project Workflow
