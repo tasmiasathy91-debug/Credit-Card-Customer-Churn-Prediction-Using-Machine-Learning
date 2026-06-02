@@ -28,15 +28,19 @@
 
 # Analytical Skills
 
-Data Cleaning
-EDA
-Predictive Modeling
+-Data Cleaning
+
+-EDA
+
+-Predictive Modeling
 
 # Business Skills
 
-Customer Analytics
-Retention Strategy
-KPI Analysis
+-Customer Analytics
+
+-Retention Strategy
+
+-KPI Analysis
 
 # Dataset Description
 
